@@ -1,0 +1,38 @@
+,support,itemsets,length
+83,0.3444976077,"frozenset({'诸葛亮', '玄亮'})",2
+94,0.3014354067,"frozenset({'诸葛亮', '刘备/诸葛亮'})",2
+56,0.2535885167,"frozenset({'诸葛亮', 'Creator Chose Not To Use Archive Warnings'})",2
+258,0.1961722488,"frozenset({'诸葛亮', '刘备/诸葛亮', '玄亮'})",3
+114,0.1961722488,"frozenset({'刘备/诸葛亮', '玄亮'})",2
+89,0.1866028708,"frozenset({'诸葛亮', 'No Archive Warnings Apply'})",2
+57,0.1818181818,"frozenset({'Creator Chose Not To Use Archive Warnings', '玄亮'})",2
+196,0.1722488038,"frozenset({'诸葛亮', 'Creator Chose Not To Use Archive Warnings', '玄亮'})",3
+278,0.1507177033,"frozenset({'诸葛亮', 'No Archive Warnings Apply', '刘备/诸葛亮'})",3
+156,0.1507177033,"frozenset({'No Archive Warnings Apply', '刘备/诸葛亮'})",2
+139,0.1363636364,"frozenset({'Liu Bei | Liu Xuande/Zhuge Liang | Zhuge Kongming', 'Zhuge Liang | Zhuge Kongming'})",2
+109,0.1196172249,"frozenset({'No Archive Warnings Apply', '玄亮'})",2
+86,0.1172248804,"frozenset({'Zhuge Liang | Zhuge Kongming', '诸葛亮'})",2
+253,0.1124401914,"frozenset({'诸葛亮', 'No Archive Warnings Apply', '玄亮'})",3
+68,0.1004784689,"frozenset({'Creator Chose Not To Use Archive Warnings', '刘备/诸葛亮'})",2
+205,0.1004784689,"frozenset({'诸葛亮', 'Creator Chose Not To Use Archive Warnings', '刘备/诸葛亮'})",3
+35,0.0980861244,"frozenset({'Gongsun Zan | Gongsun Bogui', 'Gongsun Zan | Gongsun Bogui/Liu Bei | Liu Xuande'})",2
+273,0.08851674641,"frozenset({'Zhuge Liang | Zhuge Kongming', '诸葛亮', '刘备/诸葛亮'})",3
+305,0.08851674641,"frozenset({'No Archive Warnings Apply', '刘备/诸葛亮', '玄亮'})",3
+394,0.08851674641,"frozenset({'诸葛亮', 'No Archive Warnings Apply', '刘备/诸葛亮', '玄亮'})",4
+138,0.08851674641,"frozenset({'Zhuge Liang | Zhuge Kongming', '刘备/诸葛亮'})",2
+60,0.08851674641,"frozenset({'Zhuge Liang | Zhuge Kongming', 'Creator Chose Not To Use Archive Warnings'})",2
+130,0.08133971292,"frozenset({'曹操', '曹刘 - Relationship'})",2
+218,0.07894736842,"frozenset({'Creator Chose Not To Use Archive Warnings', '刘备/诸葛亮', '玄亮'})",3
+274,0.07894736842,"frozenset({'Liu Bei | Liu Xuande/Zhuge Liang | Zhuge Kongming', 'Zhuge Liang | Zhuge Kongming', '诸葛亮'})",3
+99,0.07894736842,"frozenset({'Liu Bei | Liu Xuande/Zhuge Liang | Zhuge Kongming', '诸葛亮'})",2
+366,0.07894736842,"frozenset({'诸葛亮', 'Creator Chose Not To Use Archive Warnings', '刘备/诸葛亮', '玄亮'})",4
+58,0.07655502392,"frozenset({'曹操', 'Creator Chose Not To Use Archive Warnings'})",2
+100,0.07416267943,"frozenset({'诸葛亮', '亮玄'})",2
+129,0.07177033493,"frozenset({'曹操', '曹操/刘备'})",2
+136,0.06937799043,"frozenset({'Zhuge Liang | Zhuge Kongming', 'No Archive Warnings Apply'})",2
+149,0.06459330144,"frozenset({'Cao Cao | Cao Mengde/Liu Bei | Liu Xuande', 'Cao Cao | Cao Mengde'})",2
+171,0.06459330144,"frozenset({'Liu Bei | Liu Xuande/Zhuge Liang | Zhuge Kongming', '刘备/诸葛亮'})",2
+122,0.06459330144,"frozenset({'曹操', 'Rape/Non-Con'})",2
+293,0.06459330144,"frozenset({'Liu Bei | Liu Xuande/Zhuge Liang | Zhuge Kongming', '诸葛亮', '刘备/诸葛亮'})",3
+337,0.06459330144,"frozenset({'Liu Bei | Liu Xuande/Zhuge Liang | Zhuge Kongming', 'Zhuge Liang | Zhuge Kongming', '刘备/诸葛亮'})",3
+414,0.06459330144,"frozenset({'Liu Bei | Liu Xuande/Zhuge Liang | Zhuge Kongming', 'Zhuge Liang | Zhuge Kongming', '诸葛亮', '刘备/诸葛亮'})",4
